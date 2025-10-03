@@ -1,0 +1,5 @@
+{
+    "topoff_dir": "/project/davidwcr_264/Projects/KGP/KABCUSCJC/250319_A00208_0389_AH3MWKDMX2/demulOutCARC/KABCUSCJC",
+    "input_dirs": ["/project/davidwcr_264/Projects/KGP/KABCUSCJC/S4_toppff_merge/FASTQs","/project/davidwcr_264/Projects/KGP/KABCUSCJC/S2_topoff_merge/FASTQs"],
+    "output_dir": "/project/davidwcr_264/Projects/KGP/KABCUSCJC/topoff-3"
+}

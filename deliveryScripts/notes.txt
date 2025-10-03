@@ -1,0 +1,4 @@
+make sampleID csv
+there might be a difference between projID and KGP projID --> check demuldir 
+echoOut must have projId/projID_folders
+FASTQs must contain reads, not demulOut
